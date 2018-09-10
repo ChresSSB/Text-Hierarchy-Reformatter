@@ -1,4 +1,9 @@
 # Text-Hierarchy-Reformatter
 A program that reformats untabbed outline style text documents
 
-I created this program because in my psychology course, my professor had outlines for us to look at to study for exams. The outlines were extremely difficult to look at because there were no tabs within the hierarchies. An example of this is located inside the files directory. All files formatted should be in the files directory before reformatting it in the program.
+I created this program for my abnormal psychology course outlines. The outlines did not have tab indicators which made them harder to read. An example of this is located inside the files directory. All files formatted should be in the files directory before reformatting it in the program.
+
+How to use:
+1. place a file within the files directory
+2. Run hierarchy.py
+3. The files in the directory will be converted to documents with spaces.
