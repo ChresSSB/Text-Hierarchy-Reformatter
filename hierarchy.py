@@ -12,7 +12,9 @@ def file_hierarcher():
     :param file_name:
     :return:
     """
-
+    roman_numerals = ('I.', 'II.', 'III.', 'IV.', 'V.', 'VI.', 'VII.', 'VIII.', 'IX.', 'X.')
+    capital_letters = ('A.', 'B.', 'C.', 'D.', 'E.', 'F.', 'G.', 'H.', 'J.', 'K.', 'L.', 'M.', 'N.', 'O.', 'P.', 'Q.')
+    numbers = ('1.', '2.', '3.', '4.', '5.', '6.', '7.', '8.', '9.', '10.')
     directory_in_str = 'files'
     directory = os.fsencode(directory_in_str)
 
@@ -25,13 +27,13 @@ def file_hierarcher():
             print(filename)
             lines = [line.rstrip('\n') for line in open('files/' + filename)]
             for line in lines:
-                if line.startswith(('I.', 'II.', 'III.', 'IV.', 'V.', 'VI.', 'VII.')):
+                if line.startswith(roman_numerals):
                     curr_tab = ''
                     new_line = curr_tab + line.rstrip()
-                elif line.startswith(('A.', 'B.', 'C.', 'D.', 'E.', 'F.', 'G.')):
+                elif line.startswith(capital_letters):
                     curr_tab = '        '
                     new_line = curr_tab + line.rstrip('/n')
-                elif line.startswith(('1.', '2.', '3.', '4.', '5.', '6.', '7.')):
+                elif line.startswith(numbers):
                     curr_tab = '                '
                     new_line = curr_tab + line.rstrip()
                 else:
