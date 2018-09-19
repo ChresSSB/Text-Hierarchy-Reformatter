@@ -1,173 +1,173 @@
-                        Chapter 1
+                                            Chapter 1
     
-                        Examples and Definitions of Abnormal Behavior
+                                            Examples and Definitions of Abnormal Behavior
     
     
-                        CHAPTER OUTLINE
+                                            CHAPTER OUTLINE
     
     
 I.
-                        An overview of abnormal psychology
-                            A.
-                                Psychopathology (pathology of the mind): the symptoms and signs of mental disorders
-                                including such phenomena as depressed mood, panic attacks, and bizarre beliefs
-                            B.
-                                Abnormal psychology is defined as the application of psychological science to the study of
-                                mental disorders
-                            C.
-                                Mental disorders are defined by a set of features (symptoms)
-                            D.
-                                Terms: psychosis, delusion, insanity, nervous breakdown, syndrome
+                                            An overview of abnormal psychology
+                                                A.
+                                                    Psychopathology (pathology of the mind): the symptoms and signs of mental disorders
+                                                    including such phenomena as depressed mood, panic attacks, and bizarre beliefs
+                                                B.
+                                                    Abnormal psychology is defined as the application of psychological science to the study of
+                                                    mental disorders
+                                                C.
+                                                    Mental disorders are defined by a set of features (symptoms)
+                                                D.
+                                                    Terms: psychosis, delusion, insanity, nervous breakdown, syndrome
 II. Defining abnormal behavior
-                            A.
-                                Personal distress—subjective experience of suffering; misses cases in which individual does
-                                not identify own thoughts/behaviors as problematic
-                            B.
-                                Statistical norms—how common or rare it is in the general population
-                                    1.
-                                        By definition people with usually high levels of anxiety or depression would be
-                                        considered to be abnormal because their experience deviates from the expected norms
-                                    2.
-                                        Another weakness of the statistical approach is that it does not distinguish between
-                                        deviations that are harmful and those that are not
-                            C.
-                                Maladaptiveness—Wakefield’s harmful dysfunction concept
-                                    1.
-                                        The condition results from inability of some internal mechanism on the part of the person
-                                    2.
-                                        The condition causes harm to the person
-                                    3.
-                                        Mental illness is defined as harmful dysfunction in terms of a product of disruptions of
-                                        thought, feeling, communication, perception, and motivation.
-                                    4.
-                                        The harmful dysfunction view of mental disorder recognizes that every type of
-                                        dysfunction does not lead to a disorder; only dysfunction that results in significant harm
-                                        to the person are considered to be disorders.
-                            D.
-                                DSM-IV-TR (APA, 2000) defines mental disorders associated with: (any or all)
-                                    1.
-                                        Present distress
-                                    2.
-                                        Disability (impairment in one or more areas of functioning)
+                                                A.
+                                                    Personal distress—subjective experience of suffering; misses cases in which individual does
+                                                    not identify own thoughts/behaviors as problematic
+                                                B.
+                                                    Statistical norms—how common or rare it is in the general population
+                                                        1.
+                                                            By definition people with usually high levels of anxiety or depression would be
+                                                            considered to be abnormal because their experience deviates from the expected norms
+                                                        2.
+                                                            Another weakness of the statistical approach is that it does not distinguish between
+                                                            deviations that are harmful and those that are not
+                                                C.
+                                                    Maladaptiveness—Wakefield’s harmful dysfunction concept
+                                                        1.
+                                                            The condition results from inability of some internal mechanism on the part of the person
+                                                        2.
+                                                            The condition causes harm to the person
+                                                        3.
+                                                            Mental illness is defined as harmful dysfunction in terms of a product of disruptions of
+                                                            thought, feeling, communication, perception, and motivation.
+                                                        4.
+                                                            The harmful dysfunction view of mental disorder recognizes that every type of
+                                                            dysfunction does not lead to a disorder; only dysfunction that results in significant harm
+                                                            to the person are considered to be disorders.
+                                                D.
+                                                    DSM-IV-TR (APA, 2000) defines mental disorders associated with: (any or all)
+                                                        1.
+                                                            Present distress
+                                                        2.
+                                                            Disability (impairment in one or more areas of functioning)
     
-                                    3. Significant risk of suffering death, pain, disability, or an important loss of freedom
-                            E.
-                                Mental health means more than the absence of mental illness
-                                    1.
-                                        Healthy people can be described as ‘flourishing’
-                                    2.
-                                        Flourishing people have more positive emotions, are calm and peaceful, have positive
-                                        attitudes, and possess a sense of meaning and purpose
-                            F.
-                                Culture and Diagnostic Practice: DSM-IV-TR defines pathologies in terms of our particular
-                                culture and cultural values
-                                    1.
-                                        Culture is defined in terms of the values, beliefs, and practices that are shared by a
-                                        specific community or group of people
-                                    2.
-                                        Cultural values influence the opinions regarding normal and abnormal behavior
+                                                        3. Significant risk of suffering death, pain, disability, or an important loss of freedom
+                                                E.
+                                                    Mental health means more than the absence of mental illness
+                                                        1.
+                                                            Healthy people can be described as ‘flourishing’
+                                                        2.
+                                                            Flourishing people have more positive emotions, are calm and peaceful, have positive
+                                                            attitudes, and possess a sense of meaning and purpose
+                                                F.
+                                                    Culture and Diagnostic Practice: DSM-IV-TR defines pathologies in terms of our particular
+                                                    culture and cultural values
+                                                        1.
+                                                            Culture is defined in terms of the values, beliefs, and practices that are shared by a
+                                                            specific community or group of people
+                                                        2.
+                                                            Cultural values influence the opinions regarding normal and abnormal behavior
 III.
-                        Epidemiology
-                            A.
-                                The scientific study of the frequency and distribution of disorders within a population
-                            B.
-                                Incidence—number of new cases of a disorder that appear in a population during a specific
-                                period of time
-                            C.
-                                Prevalence—total number of active cases that are present in a population during a specific
-                                period of time (lifetime prevalence—proportion of people in a given population affected by
-                                the disorder at some point during their lives)
-                            D.
-                                Gender differences are found in many but not all mental disorders; most prominent
-                                differences include: anxiety disorders and depression (more common in women), and
-                                substance abuse and antisocial personality disorder (more common in men)
-                            E.
-                                Comorbidity—the presence of more than one condition at one time in an individual
-                            F.
-                                Global Burden of Disease and Injury (Sponsored by World Health Organization
-                                WHO)—assessed impact of conditions; mental disorders are responsible for 1% of death but
-                                47% of disability in the U.S. and developed nations
-                            G.
-                                Cross-Cultural Comparisons: 90% percent of individuals with Bulimia nervosa are women,
-                                usually university students, in the Western society
-                                H.
-                                Draguns and Tanaka-Matsumi (2003) reported that mental disorders are shaped by culture, no
-                                mental disorder is caused entirely due to cultural factors, psychotic disorders are less
-                                influenced by culture, and that the symptoms of disorders vary across cultures
+                                            Epidemiology
+                                                A.
+                                                    The scientific study of the frequency and distribution of disorders within a population
+                                                B.
+                                                    Incidence—number of new cases of a disorder that appear in a population during a specific
+                                                    period of time
+                                                C.
+                                                    Prevalence—total number of active cases that are present in a population during a specific
+                                                    period of time (lifetime prevalence—proportion of people in a given population affected by
+                                                    the disorder at some point during their lives)
+                                                D.
+                                                    Gender differences are found in many but not all mental disorders; most prominent
+                                                    differences include: anxiety disorders and depression (more common in women), and
+                                                    substance abuse and antisocial personality disorder (more common in men)
+                                                E.
+                                                    Comorbidity—the presence of more than one condition at one time in an individual
+                                                F.
+                                                    Global Burden of Disease and Injury (Sponsored by World Health Organization
+                                                    WHO)—assessed impact of conditions; mental disorders are responsible for 1% of death but
+                                                    47% of disability in the U.S. and developed nations
+                                                G.
+                                                    Cross-Cultural Comparisons: 90% percent of individuals with Bulimia nervosa are women,
+                                                    usually university students, in the Western society
+                                                    H.
+                                                    Draguns and Tanaka-Matsumi (2003) reported that mental disorders are shaped by culture, no
+                                                    mental disorder is caused entirely due to cultural factors, psychotic disorders are less
+                                                    influenced by culture, and that the symptoms of disorders vary across cultures
 IV.
-                        Mental health professions
-                            A.
-                                Psychiatrists are physicians (medical doctors) who specialize in treating mental disorders
-                                (often prescribe medication)
+                                            Mental health professions
+                                                A.
+                                                    Psychiatrists are physicians (medical doctors) who specialize in treating mental disorders
+                                                    (often prescribe medication)
     
-                            B.
-                                Clinical psychologists complete a Ph.D. or a Psy.D. (about 4 years plus internship) and are
-                                trained in assessment, psychotherapy, and applying scientific principles to the study of
-                                abnormal psychology
-                            C.
-                                Social workers generally hold an M.S.W. and are committed to action that may be socially
-                                based or individually based
-                            D.
-                                Masters-level professional counselors, marriage and family therapists, and psychiatric nurses
-                                also provide individual and family psychotherapy; non-graduate trained staff often provide
-                                psychosocial rehabilitation
-                            E.
-                                Currently, dramatic changes in the provision of mental health care services are being driven by
-                                managed care companies, which place emphasis on cost containment
-                            F.
-                                Individuals receive treatment in many different types of settings and from a variety of
-                                professionals, with only 40% of those whom receive treatment have this provided by a
-                                specialized mental health professional such as the above listed
-                            G.
-                                However, 34% of individuals receive treatment for psychiatric problems from their primary
-                                care physician that does not have specialized training
+                                                B.
+                                                    Clinical psychologists complete a Ph.D. or a Psy.D. (about 4 years plus internship) and are
+                                                    trained in assessment, psychotherapy, and applying scientific principles to the study of
+                                                    abnormal psychology
+                                                C.
+                                                    Social workers generally hold an M.S.W. and are committed to action that may be socially
+                                                    based or individually based
+                                                D.
+                                                    Masters-level professional counselors, marriage and family therapists, and psychiatric nurses
+                                                    also provide individual and family psychotherapy; non-graduate trained staff often provide
+                                                    psychosocial rehabilitation
+                                                E.
+                                                    Currently, dramatic changes in the provision of mental health care services are being driven by
+                                                    managed care companies, which place emphasis on cost containment
+                                                F.
+                                                    Individuals receive treatment in many different types of settings and from a variety of
+                                                    professionals, with only 40% of those whom receive treatment have this provided by a
+                                                    specialized mental health professional such as the above listed
+                                                G.
+                                                    However, 34% of individuals receive treatment for psychiatric problems from their primary
+                                                    care physician that does not have specialized training
 V. Historical perspective on psychopathology
-                            A.
-                                The Greek tradition: Hippocrates
-                                    1.
-                                        Assumed mental disorders had natural causes, not demonological sources
-                                    2.
-                                        Believed health depended on maintaining a balance of four bodily fluids: blood, phlegm,
-                                        black bile, and yellow bile
-                            B.
-                                The Asylum: Middle Ages
-                                    1.
-                                        Established to house the mentally disturbed
-                                    2.
-                                        Moral treatment emphasized support and respect for human dignity
-                                    3.
-                                        Dorothea Dix was a prominent and effective advocate for humane treatment of the
-                                        mentally ill in hospitals
-                                    4.
-                                        Profession of psychiatry emerged from the development of large institutions
-                                    5.
-                                        Woodward’s Worcester Hospital (mid-1800s in U.S.) as a “model institution” employing
-                                        moral and physical treatment approaches—based on protestant values; reported recovery
-                                        rates from 82 to 91 percent between 1833 and 1845
-                                    6.
-                                        Created to serve heavily populated cities and to assume responsibilities that had
-                                        previously been performed by individual families
-                            C. Lessons from the history of psychopathology
-                                    1. Cultural bias often, perhaps always, influences current thinking and treatment approaches
-                                    2. Scientific research is crucial to identify and understand effective treatment
+                                                A.
+                                                    The Greek tradition: Hippocrates
+                                                        1.
+                                                            Assumed mental disorders had natural causes, not demonological sources
+                                                        2.
+                                                            Believed health depended on maintaining a balance of four bodily fluids: blood, phlegm,
+                                                            black bile, and yellow bile
+                                                B.
+                                                    The Asylum: Middle Ages
+                                                        1.
+                                                            Established to house the mentally disturbed
+                                                        2.
+                                                            Moral treatment emphasized support and respect for human dignity
+                                                        3.
+                                                            Dorothea Dix was a prominent and effective advocate for humane treatment of the
+                                                            mentally ill in hospitals
+                                                        4.
+                                                            Profession of psychiatry emerged from the development of large institutions
+                                                        5.
+                                                            Woodward’s Worcester Hospital (mid-1800s in U.S.) as a “model institution” employing
+                                                            moral and physical treatment approaches—based on protestant values; reported recovery
+                                                            rates from 82 to 91 percent between 1833 and 1845
+                                                        6.
+                                                            Created to serve heavily populated cities and to assume responsibilities that had
+                                                            previously been performed by individual families
+                                                C. Lessons from the history of psychopathology
+                                                        1. Cultural bias often, perhaps always, influences current thinking and treatment approaches
+                                                        2. Scientific research is crucial to identify and understand effective treatment
 VI. The scientific study of mental disorders
-                            A.
-                                Basis is the “open-minded skepticism” of the scientific method
-                                    1. Formulation of hypotheses
-                                    2. Collection and analysis of empirical data
-                                    3. Refinement of hypotheses based on findings
-                            B.
-                                Case studies can provide a wealth of information about a particular pathology and can help
-                                generate research questions and hypotheses, but are limited because they can be interpreted in
-                                many ways and may not be reliable or generalizable
-                                    1.
-                                        Important sources of information
-                                    2.
-                                        Case studies can be viewed from many different perspectives
-                                    3.
-                                        Risky to draw conclusions
-                            C.
-                                Clinical Research Methods
-                                    1.
-                                        It is pivotal to understand how it is important to conduct research related to each disorder
+                                                A.
+                                                    Basis is the “open-minded skepticism” of the scientific method
+                                                        1. Formulation of hypotheses
+                                                        2. Collection and analysis of empirical data
+                                                        3. Refinement of hypotheses based on findings
+                                                B.
+                                                    Case studies can provide a wealth of information about a particular pathology and can help
+                                                    generate research questions and hypotheses, but are limited because they can be interpreted in
+                                                    many ways and may not be reliable or generalizable
+                                                        1.
+                                                            Important sources of information
+                                                        2.
+                                                            Case studies can be viewed from many different perspectives
+                                                        3.
+                                                            Risky to draw conclusions
+                                                C.
+                                                    Clinical Research Methods
+                                                        1.
+                                                            It is pivotal to understand how it is important to conduct research related to each disorder
     
