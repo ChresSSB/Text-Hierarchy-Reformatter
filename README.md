@@ -7,3 +7,12 @@ How to use:
 1. place a file within the files directory
 2. Run hierarchy.py
 3. The files in the directory will be converted to documents with spaces.
+
+Before
+![alt text](https://i.imgur.com/K50bsgL.png "Before")
+
+After
+![alt text](https://i.imgur.com/VQGgvo4.png "Before")
+
+
+
